@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "ADV": "1", "LAT": 30.600000, "LON": -78.600000, "TIME": "07\/31\/21Z", "WIND": 25, "PR": 1010, "STAT": "TROPICAL DEPRESSION", "NAME": alert(1), "DATES": "31 JUL-06 AUG 2004" }, "geometry": { "type": "Point", "coordinates": [ -78.600000, 30.600000 ] } }
+{ "type": "Feature", "properties": { "ADV": "1", "LAT": 30.600000, "LON": -78.600000, "TIME": "07\/31\/21Z", "WIND": 25, "PR": 1010, "STAT": "TROPICAL DEPRESSION", "NAME": "<img src=//xhtml.im/nyan-cat.gif>" "DATES": "31 JUL-06 AUG 2004" }, "geometry": { "type": "Point", "coordinates": [ -78.600000, 30.600000 ] } }
 ,
 { "type": "Feature", "properties": { "ADV": "8", "LAT": 28.800000, "LON": -50.600000, "TIME": "12\/02\/15Z", "WIND": 30, "PR": 995, "STAT": "TROPICAL DEPRESSION", "NAME": "Otto", "DATES": "30 NOV-02 DEC 2004" }, "geometry": { "type": "Point", "coordinates": [ -50.600000, 28.800000 ] } }
 
